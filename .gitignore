@@ -1,0 +1,27 @@
+# Keil MDK build outputs
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.iex
+*.lnp
+*.htm
+
+# Keil project user-specific files
+*.uvguix.*
+*.uvoptx
+Progect/output/
+JLinkLog.txt
+EventRecorderStub.scvd
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
